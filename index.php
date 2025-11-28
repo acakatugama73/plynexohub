@@ -828,6 +828,11 @@
             <p>Charitable initiatives focus on supporting coffee-growing communities, local food security programs, and educational scholarships. A portion of our profits supports clean water projects in coffee-growing regions, while local partnerships provide coffee and meeting space for nonprofit organizations. These efforts reflect our commitment to positive impact both locally and globally.</p>
         </div>
     </div>
+
+<a href="/" alt="stats counter free" target="_blank" >
+<img  src="https://sstatic1.histats.com/0.gif?4977134&101" alt="stats counter free" border="0">
+    
 </body>
 </html>
+
 
